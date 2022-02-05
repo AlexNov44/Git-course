@@ -54,7 +54,7 @@ var x = setInterval(function() {
 }, 1000);
 </script>
 </head>
-console.log ('test 2')
+console.log ('test 2!!!!!!!!!!!!!!!!!!!!!!')
 <body>
     <h1>Пряничная мастерская</h1>
     <h2>Сайт будет доступен через <span id="countdown"></span></h2>
